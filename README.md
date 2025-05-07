@@ -2,7 +2,7 @@
 <img src="https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif" align="center" style="width: 100%" />
 </div>  
 
-<h2 align="center">Hi 👋! My name is Abdullah and I'm a Frontend Developer</h2>
+<h2 align="center">My name is Abdullah and I'm a Frontend Developer</h2>
 
 ###
 
