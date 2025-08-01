@@ -8,7 +8,7 @@ I build modern, responsive, and scalable web applications that deliver real-time
 
 ## 🚀 Current Project
 
-I'm currently working on a **real-time chat app** using [Socket.IO](https://socket.io/) and [MongoDB](https://www.mongodb.com/).
+I'm currently working on a **[EchoSphere](https://github.com/Abdullahkhan871/MernStack-/tree/main/EchoSphere) real-time chat app**.
 
 ---
 
@@ -44,43 +44,27 @@ I'm currently working on a **real-time chat app** using [Socket.IO](https://sock
 
 ### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-2F2F2F?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 🏆 Featured Projects
-
-### 🔥 Real-time Chat Application
-- **Tech Stack:** React, Node.js, Socket.IO, MongoDB
-- **Features:** Real-time messaging, user authentication, responsive design
-- [Live Demo](#) | [Source Code](#)
 
 ### 🛒 E-commerce Platform
 - **Tech Stack:** MERN Stack, Redux, Stripe API
 - **Features:** Product catalog, shopping cart, payment integration
-- [Live Demo](#) | [Source Code](#)
+- [Live Demo](https://forever-ecommerce-jet.vercel.app/) | [Source Code](https://github.com/Abdullahkhan871/forever_ecommerce)
+- Admin :
+- [Live Demo](https://forever-ecommerce-admin-psi.vercel.app/) | [Source Code](https://github.com/Abdullahkhan871/forever_ecommerce)
 
 ---
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akhan283785@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-khan-49a876235/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullahkhan871)
 
 ---
 
@@ -96,7 +80,5 @@ I'm currently working on a **real-time chat app** using [Socket.IO](https://sock
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 </div>
