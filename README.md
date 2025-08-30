@@ -8,7 +8,7 @@ I build modern, responsive, and scalable web applications that deliver real-time
 
 ## 🚀 Current Project
 
-I'm currently working on a **[EchoSphere](https://github.com/Abdullahkhan871/MernStack-/tree/main/EchoSphere) real-time chat app**.
+I'm currently working on a **[social media app](https://github.com/Abdullahkhan871/MernStack-/tree/main/EchoSphere) real-time chat app**.
 
 ---
 
