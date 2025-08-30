@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abdullah Khan
 
-## MERN Stack Developer | Frontend-focused
+## MERN Stack Developer | Software Engineer
 
 I build modern, responsive, and scalable web applications that deliver real-time experiences and intuitive user interfaces.
 
